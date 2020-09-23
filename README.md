@@ -1,5 +1,5 @@
 # pos_tags_nltk
-WebApp for generating PoS tags using NLTK library
+WebApp for generating Parts of Speech tags using NLTK library
 ## Info
 This is an webapp which generates <b>PoS tags</b> on input text using <b>NLTK</b>
 ## Usage
@@ -14,6 +14,6 @@ To run the webapp, do<br>
 Open http://localhost:5000/ on your local machine.
 ## In Action
 ### Homepage
-![]()
+![](https://github.com/sonwanesuresh95/pos_tags_nltk/blob/master/homepage.png)
 ### Response
-![]()
+![](https://github.com/sonwanesuresh95/pos_tags_nltk/blob/master/response.png)
